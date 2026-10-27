@@ -11,7 +11,7 @@ const posts = defineCollection({
       locale: s.enum(["it", "en"]),
       publishedAt: s.isodate(),
       draft: s.boolean().default(false),
-      body: s.mdx(),
+      body: s.markdown(),
     })
     .transform((data) => ({
       ...data,

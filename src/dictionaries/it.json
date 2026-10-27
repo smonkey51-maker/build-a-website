@@ -1,21 +1,64 @@
 {
   "meta": {
-    "title": "Il mio sito",
-    "description": "Pagina segnaposto. Sostituisci questo testo con la tua descrizione."
+    "title": "Appunti sull'AI al lavoro",
+    "description": "Metodi, strumenti ed esperienze su come l'intelligenza artificiale entra nel lavoro quotidiano."
   },
   "nav": {
     "home": "Home",
     "blog": "Blog",
+    "portfolio": "Progetti",
+    "books": "Guide",
+    "about": "Chi sono",
     "contact": "Contatti"
   },
   "hero": {
-    "title": "Titolo di esempio",
-    "subtitle": "Sottotitolo segnaposto che descrive in una frase la proposta di valore.",
-    "cta": "Scopri di più"
+    "title": "L'AI nel lavoro, senza promesse miracolose",
+    "subtitle": "Strumenti, errori e metodi verificati per integrare l'intelligenza artificiale in processi reali.",
+    "cta": "Leggi il blog"
   },
   "blog": {
     "heading": "Ultimi articoli",
-    "empty": "Nessun articolo ancora."
+    "all": "Tutti gli articoli",
+    "empty": "Nessun articolo ancora.",
+    "back": "Torna al blog",
+    "readingTime": "min di lettura"
+  },
+  "books": {
+    "heading": "Guide",
+    "items": [
+      {
+        "title": "Guida pratica all'AI per piccoli team",
+        "subtitle": "Dal primo test al processo stabile, passo dopo passo."
+      },
+      {
+        "title": "Note sull'automazione del lavoro",
+        "subtitle": "Raccolta di casi reali, con errori e correzioni."
+      }
+    ]
+  },
+  "portfolio": {
+    "heading": "Progetti",
+    "items": [
+      {
+        "title": "Assistente per il catalogo interno",
+        "description": "Ricerca semantica su documentazione tecnica, con risposte citate."
+      },
+      {
+        "title": "Dashboard di pianificazione",
+        "description": "Vista unica per turni, scadenze e carichi di lavoro di un team."
+      },
+      {
+        "title": "Sito per un'associazione",
+        "description": "Sito statico multilingua con modulo di iscrizione e archivio eventi."
+      }
+    ]
+  },
+  "about": {
+    "heading": "Chi sono",
+    "paragraphs": [
+      "Lavoro con sistemi che integrano modelli di intelligenza artificiale in contesti aziendali e istituzionali.",
+      "Mi interessano l'affidabilità, la protezione dei dati e i metodi di valutazione che si possono ripetere nel tempo."
+    ]
   },
   "newsletter": {
     "heading": "Iscriviti alla newsletter",
