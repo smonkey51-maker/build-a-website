@@ -1,11 +1,27 @@
 {
+  "framework": null,
+  "buildCommand": null,
+  "outputDirectory": ".",
   "functions": {
-    "api/celebrity.js": { "maxDuration": 60 }
+    "api/celebrity.js": {
+      "maxDuration": 60
+    }
   },
   "rewrites": [
-    { "source": "/.well-known/assetlinks.json", "destination": "/assetlinks.json" }
+    {
+      "source": "/.well-known/assetlinks.json",
+      "destination": "/assetlinks.json"
+    }
   ],
   "headers": [
-    { "source": "/assetlinks.json", "headers": [{ "key": "Content-Type", "value": "application/json" }] }
+    {
+      "source": "/assetlinks.json",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json"
+        }
+      ]
+    }
   ]
 }
