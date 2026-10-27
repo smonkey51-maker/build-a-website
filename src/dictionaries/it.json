@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Il mio sito",
+    "description": "Pagina segnaposto. Sostituisci questo testo con la tua descrizione."
+  },
+  "nav": {
+    "home": "Home",
+    "blog": "Blog",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "title": "Titolo di esempio",
+    "subtitle": "Sottotitolo segnaposto che descrive in una frase la proposta di valore.",
+    "cta": "Scopri di più"
+  },
+  "blog": {
+    "heading": "Ultimi articoli",
+    "empty": "Nessun articolo ancora."
+  },
+  "newsletter": {
+    "heading": "Iscriviti alla newsletter",
+    "placeholder": "La tua email",
+    "submit": "Iscriviti",
+    "consent": "Acconsento a ricevere aggiornamenti via email."
+  },
+  "chat": {
+    "placeholder": "Assistente in arrivo. Questa funzione è un segnaposto."
+  }
+}

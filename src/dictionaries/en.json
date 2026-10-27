@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "My site",
+    "description": "Placeholder page. Replace this text with your own description."
+  },
+  "nav": {
+    "home": "Home",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Example title",
+    "subtitle": "Placeholder subtitle that summarizes the value proposition in one sentence.",
+    "cta": "Learn more"
+  },
+  "blog": {
+    "heading": "Latest posts",
+    "empty": "No posts yet."
+  },
+  "newsletter": {
+    "heading": "Subscribe to the newsletter",
+    "placeholder": "Your email",
+    "submit": "Subscribe",
+    "consent": "I agree to receive email updates."
+  },
+  "chat": {
+    "placeholder": "Assistant coming soon. This feature is a placeholder."
+  }
+}
