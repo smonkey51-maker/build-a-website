@@ -1,0 +1,2 @@
+/* La barra dell'account compare solo quando non sei collegato a Google (drive-sync.js) */
+#accountPanel[hidden]{display:none!important}
